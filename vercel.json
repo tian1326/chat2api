@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "chat2api.py"
+      "dest": "chat2api.py",
       "maxDuration": 20
     }
   ]
